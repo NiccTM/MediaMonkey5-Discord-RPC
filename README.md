@@ -18,7 +18,7 @@ The application acts as a bridge between two Inter-Process Communication (IPC) p
 ## Installation
 
 ### Option 1: Standalone Binary (Recommended)
-1.  Download `MM5_Bridge_V1.2.exe` from the [Releases Page](https://github.com/NiccTM/MediaMonkey5-Discord-RPC/releases).
+1.  Download `MM5_Bridge_V1.3_Stable.exe` from the [Releases Page](https://github.com/NiccTM/MediaMonkey5-Discord-RPC/releases).
 2.  Run the executable while MediaMonkey 5 is open.
 3.  The bridge will automatically attach to the active process PID.
 
@@ -26,4 +26,4 @@ The application acts as a bridge between two Inter-Process Communication (IPC) p
 ```bash
 git clone [https://github.com/NiccTM/MediaMonkey5-Discord-RPC.git](https://github.com/NiccTM/MediaMonkey5-Discord-RPC.git)
 pip install pypresence pywin32
-python mm5_rpc_v1.2.py
+python mm5_rpc_v1.3.py
