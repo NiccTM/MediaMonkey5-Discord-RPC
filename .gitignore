@@ -1,0 +1,12 @@
+# Ignore build folders
+build/
+dist/
+__pycache__/
+*.spec
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python environment (if any)
+venv/
+env/
